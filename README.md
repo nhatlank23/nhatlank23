@@ -4,7 +4,7 @@
 
 # Hey, I'm NGUYỄN NHẬT LÂN!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%2F+Backend+Developer;%2C+Ho+Chi+Minh)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%2F+Backend+Developer;)](https://git.io/typing-svg)
 
 </div>
 
