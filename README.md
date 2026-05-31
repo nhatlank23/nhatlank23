@@ -35,4 +35,8 @@ Third-year Software Engineering student at HCMUS, specializing in Backend Develo
 
 </div>
 
+## 🐍 Contribution Graph
+
+![Snake](https://raw.githubusercontent.com/nhatlank23/nhatlank23/output/github-contribution-grid-snake-dark.svg)
+
 
