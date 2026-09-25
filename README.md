@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-Third-year Software Engineering student at HCMUS, specializing in Backend Development with a Full-stack perspective. Experienced in designing robust database schemas and building scalable RESTful APIs using Node.js & Express. Experienced in leading academic team projects and implementing standard development workflows (such as CI/CD) to improve code quality.
+A Final-year Software Engineering student at HCMUS, specializing in Backend Development with a Full-stack perspective. Experienced in designing robust database schemas and building scalable RESTful APIs using Node.js & Express. Experienced in leading academic team projects and implementing standard development workflows (such as CI/CD) to improve code quality.
 
 - 🏢 Studying at **VNUHCM - University of Science (HCMUS)**
 - 🌱 Currently learning **Advanced backend architecture, database optimization, and AI integration in software development.**
